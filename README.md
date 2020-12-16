@@ -5,5 +5,7 @@ Projeto desenvolvido durante bootcamp HTML Web Developer
  - Creditos: Digital Innovation One 
 
  ## Tecnologias
-  - Codigo e interface: HTML, CSS
+  - Codigo e interface: **HTML**, **CSS**
  
+ ### [Pré-visualização]
+ ![img](img/Screenshot-login-page-instagram.png)
